@@ -1,11 +1,11 @@
 # Titanic_Survival_Prediction
 To predict the Survival of a person from Titanic Data-Set using Decision Tree Algorithm.
+
 Algorithm: Decision Tree
 	The motive of using Decision Tree is to create a training model which can use to predict class or value of target variables by learning decision rules inferred from training data.
-
 	The Decision Tree Algorithm tries to solve the problem, by using tree representation. Each internal node of the tree corresponds to an attribute, and each leaf node corresponds to a class label.
+The primary challenge in the decision tree implementation is to identify which attributes do we need to consider as the root node and each level.
 
-	The primary challenge in the decision tree implementation is to identify which attributes do we need to consider as the root node and each level.
 The popular attribute selection measures:
 i)Gini Index:
 To measure how often a randomly chosen element would be incorrectly identified. It means an attribute with lower gini index should be preferred.
