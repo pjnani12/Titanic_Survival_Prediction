@@ -14,7 +14,7 @@ To measure how often a randomly chosen element would be incorrectly identified. 
 
 ii)Entropy:
 Measure of the randomness in the information being processed.            
-lower the entropy -> higher the information gain.
+lower the entropy -> higher the information gain
 
 APPROACH:
 1.	gathered dataset from kaggle
